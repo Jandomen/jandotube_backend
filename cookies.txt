@@ -1,0 +1,8 @@
+# Netscape HTTP Cookie File
+# https://curl.se/docs/http-cookies.html
+# Este archivo fue exportado por la extensión X
+
+.youtube.com	TRUE	/	FALSE	1697745600	PREF	id=12345:lang=en
+.youtube.com	TRUE	/	FALSE	1697745600	HSID	ABC123xyz
+.youtube.com	TRUE	/	FALSE	1697745600	SSID	XYZ789abc
+.youtube.com	TRUE	/	FALSE	1697745600	SID	SID123456789

@@ -1,0 +1,14 @@
+# Node modules
+node_modules
+npm-debug.log
+yarn-error.log
+
+# Archivos temporales de descargas
+controllers/tacones/*
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de configuración local
+.env
